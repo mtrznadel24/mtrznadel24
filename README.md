@@ -6,18 +6,18 @@ I have a solid foundation in **Frontend** and **DevOps** and I am eager to expan
 
 ---
 
-### 🚀 Featured Project
+### Featured Project
 **[Calorie Tracker App](https://github.com/mtrznadel24/calorie-tracker-app)**
 *A production-ready system following Clean Architecture (DDD). Features a FastAPI backend with PostgreSQL and Redis for rate-limiting, paired with a React Native app using optimistic updates.*
 
 **[Ticket reservation system](https://github.com/mtrznadel24/ticket-reservation-system)**
 *A professional-grade Django application refactored with a Service Layer to decouple business logic. Implements PostgreSQL Row-Level Locking for high-concurrency seat reservations and advanced ORM optimization to solve N+1 query problems. Leverages Celery for asynchronous background tasks (PDF generation) and cron-like scheduled maintenance. Features a fully automated GitHub Actions CI/CD pipeline for testing and deployment to a DigitalOcean Droplet via Nginx and Docker Compose. Integrated with Stripe API for secure payments and AES-256 encryption for personal data privacy.*
 
-🌐 Live Demo: [tickets.mtrzndel.me](https://tickets.mtrznadel.me/) | Staff Login: staff_user / Password123!
+Live Demo: [tickets.mtrzndel.me](https://tickets.mtrznadel.me/) | Staff Login: staff_user / Password123!
 
 ---
 
-### 🛠️ My Tech Toolkit
+### My Tech Toolkit
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -31,5 +31,5 @@ I have a solid foundation in **Frontend** and **DevOps** and I am eager to expan
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
-📫 **Connect with me:**
+**Connect with me:**
 [LinkedIn](https://www.linkedin.com/in/mtrznadel24/) | [Email](maciej.trznadel24@gmail.com)
