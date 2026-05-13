@@ -18,10 +18,10 @@ Live Demo: [tickets.mtrznadel.me](https://tickets.mtrznadel.me/) | Staff Login: 
 **[InPost Smart Finder](https://github.com/mtrznadel24/Inpost-Smart-Finder)**
 *A high-performance full-stack web application for spatial querying of parcel lockers. Features a FastAPI backend integrated with a PostgreSQL+PostGIS database for lightning-fast bounding-box filtering on a map. Utilizes an asynchronous Redis/ARQ background worker to continuously sync data from the external InPost API without blocking the main thread. The frontend is built with React, Vite, and Leaflet, offering a mobile-first, performance-optimized UI with i18n support. Fully containerized and deployed on a DigitalOcean Droplet behind an Nginx reverse proxy.*
 
+Live Demo: [smart-finder.mtrznadel.me](https://smart-finder.mtrznadel.me/)
+
 **[Project Management System](https://github.com/mtrznadel24/project-manager)**
 A comprehensive full-stack Agile management tool built with Java (Spring Boot) and React by a 6-person Scrum team. Acting as Product Owner & Full-Stack Developer, I was responsible for implementing core features, including secure authentication, complex RBAC workflows, and in-app notifications. I also co-designed hierarchical PostgreSQL data models and ensured a clean project structure and high code quality through rigorous peer Code Reviews.
-
-Live Demo: [smart-finder.mtrznadel.me](https://smart-finder.mtrznadel.me/)
 
 ---
 
