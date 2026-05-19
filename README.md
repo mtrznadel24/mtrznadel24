@@ -1,8 +1,13 @@
 # Hi there, I'm Maciek 👋 
 
-I'm a 3rd-year Computer Science student at **AGH University of Krakow**, deeply focused on building scalable and maintainable backend systems. I enjoy diving into **Clean Architecture (DDD)** and performance optimization. 
+I am a 3rd-year Computer Science student at **AGH University of Krakow**, building my path as a Software Engineer with an end-to-end mindset. 
 
-I have a solid foundation in **Frontend** and **DevOps** and I am eager to expand my skills by working on complex, real-world projects.
+My primary focus is backend development using **Python (FastAPI, Django)**, and I also have a strong foundation in **Java (Spring Boot)**. I enjoy diving into **Clean Architecture (DDD)**, scalable system design, and performance optimization. 
+
+Beyond the server-side, I have hands-on experience in web development with **React** and a solid understanding of mobile development using **React Native**. Furthermore, 
+I am comfortable containerizing applications with **Docker & Docker Compose**, automating CI/CD pipelines via **GitHub Actions**, and managing custom deployments on VPS environments.
+
+I am currently seeking opportunities to expand my expertise by tackling complex, real-life commercial projects within an innovative engineering team.
 
 ---
 
@@ -27,8 +32,10 @@ A comprehensive full-stack Agile management tool built with Java (Spring Boot) a
 
 ### My Tech Toolkit
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -37,7 +44,6 @@ A comprehensive full-stack Agile management tool built with Java (Spring Boot) a
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
 
 **Connect with me:**
 [LinkedIn](https://www.linkedin.com/in/mtrznadel24/) | [Email](maciej.trznadel24@gmail.com)
