@@ -12,8 +12,6 @@ I am currently seeking opportunities to expand my expertise by tackling complex,
 ---
 
 ### Featured Project
-**[Calorie Tracker App](https://github.com/mtrznadel24/calorie-tracker-app)**
-*A production-ready system following Clean Architecture (DDD). Features a FastAPI backend with PostgreSQL and Redis for rate-limiting, paired with a React Native app using partial state updates.*
 
 **[Ticket reservation system](https://github.com/mtrznadel24/ticket-reservation-system)**
 *A professional-grade Django application refactored with a Service Layer to decouple business logic. Implements PostgreSQL Row-Level Locking for high-concurrency seat reservations and advanced ORM optimization to solve N+1 query problems. Leverages Celery for asynchronous background tasks (PDF generation) and cron-like scheduled maintenance. Features a fully automated GitHub Actions CI/CD pipeline for testing and deployment to a DigitalOcean Droplet via Nginx and Docker Compose. Integrated with Stripe API for secure payments and AES-256 encryption for personal data privacy.*
@@ -25,8 +23,14 @@ Live Demo: [tickets.mtrznadel.me](https://tickets.mtrznadel.me/) | Staff Login: 
 
 Live Demo: [smart-finder.mtrznadel.me](https://smart-finder.mtrznadel.me/)
 
+**[Calorie Tracker App](https://github.com/mtrznadel24/calorie-tracker-app)**
+*A production-ready system following Clean Architecture (DDD). Features a FastAPI backend with PostgreSQL and Redis for rate-limiting, paired with a React Native app using partial state updates.*
+
 **[Project Management System](https://github.com/mtrznadel24/project-manager)**
 A comprehensive full-stack Agile management tool built with Java (Spring Boot) and React by a 6-person Scrum team. Acting as Product Owner & Full-Stack Developer, I was responsible for implementing core features, including secure authentication, complex RBAC workflows, and in-app notifications. I also co-designed hierarchical PostgreSQL data models and ensured a clean project structure and high code quality through rigorous peer Code Reviews.
+
+**[Library Managment System](https://github.com/mtrznadel24/Library-System)**
+A full-stack library management application built with Java (Spring Boot) and React, following Domain-Driven Design (DDD) principles. My responsibilities included, among others, architecting a smart loan and reservation engine, implementing secure auth and RBAC with stateless JWT sessions, and developing core frontend features like catalog browsing and detailed book pages.
 
 ---
 
